@@ -1,4 +1,4 @@
-# Oware game
+# Scrabble Junior
 ## Infos :information_source:
 "Scrabble Junior is a terrific way to get younger players into word games. It captures the spirit of traditional Scrabble, modifying it so the game is more accessible for children ages five and up."
 <a href="https://wordfinder.yourdictionary.com/blog/scrabble-junior-rules-for-beginner-and-advanced-play/">More.</a><br>
