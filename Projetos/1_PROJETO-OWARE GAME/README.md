@@ -6,5 +6,8 @@ Programming language used: C++
 
 
 ## About the project :bulb:
-This project was entirely developed by me.<br>
-Final grade: 17.5 
+Project specification: <a href="https://github.com/TiagoCaldaSilva/FEUP-PROG/blob/master/Projetos/1_PROJETO-OWARE%20GAME/PROG_1_PROJECT/PROG_2019-2020_Trabalho1-v02_EN.pdf">here</a>
+<br>
+This project was entirely developed by me.
+<br><br>
+Final grade: <em>17.5</em>
