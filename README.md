@@ -1,8 +1,10 @@
 # FEUP-PROG :heavy_check_mark:
 Repository of PROG curricular unit<br>
 <ul type="none">
-  <li>Resolution of the weekly exercises of this curricular unit</li>
-  <li>Programming languages used: C++</li>
+  <li>Resolution of the weekly exercises - <a href="https://github.com/TiagoCaldaSilva/FEUP-PROG/tree/master/Resolu%C3%A7%C3%A3o%20dos%20exerc%C3%ADcios%20semanais">here</a></li>
+  <li>Support material - <a href="https://github.com/TiagoCaldaSilva/FEUP-PROG/tree/master/Apontamentos%20e%20Exemplos">here</a></li>
+  <li>Some exams of the past years - <a href="https://github.com/TiagoCaldaSilva/FEUP-PROG/tree/master/Exames%20outros%20anos">here</a></li>
+  <li>Programming languages used: <em>C++</em></li>
 </ul>
  
 
