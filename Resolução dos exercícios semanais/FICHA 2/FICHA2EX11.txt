@@ -1,0 +1,14 @@
+Student name- camila
+Student code- up202006045
+Short exam grade- 16
+Project grade-	16
+Exam grade- 16
+Final grade- 16
+-----------------------------
+Student name- tiago
+Student code- up201906045
+Short exam grade- 20
+Project grade-	20
+Exam grade- 20
+Final grade- 20
+-----------------------------

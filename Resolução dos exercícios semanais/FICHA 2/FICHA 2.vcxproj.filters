@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Date1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Product.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invoice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Books.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Library.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProductEX6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vetor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Feup_person.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Feup_Student.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="_Class.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Feup_Teacher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpreadsheetCellString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpreadsheetCellDouble.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Date_exep.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Date.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Date1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Product.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invoice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Books.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Library.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProductEX6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vetor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Feup_person.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Feup_Student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="_Class.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Feup_Teacher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpreadsheetCell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpreadsheetCellString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpreadsheetCellDouble.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Date_exep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InvalidDate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

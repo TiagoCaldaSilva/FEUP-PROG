@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(153,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(185,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(108,44): warning C4101: 'change': unreferenced local variable
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(108,40): warning C4101: 'vp': unreferenced local variable
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(110,14): warning C4101: 'player': unreferenced local variable
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(336,6): warning C4101: 'result': unreferenced local variable
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(761,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(909,15): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(914,38): warning C4244: '+=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(1003,33): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(1047,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(1084,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(1177,16): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(1182,39): warning C4244: '+=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(1275,33): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Source.cpp(751): warning C4715: 'pause_game': not all control paths return a value
+  OWARE GAME.vcxproj -> C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\OWARE GAME\Debug\OWARE GAME.exe

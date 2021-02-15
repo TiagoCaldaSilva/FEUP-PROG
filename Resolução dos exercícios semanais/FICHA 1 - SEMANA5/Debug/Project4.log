@@ -1,0 +1,39 @@
+﻿  Source.cpp
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(80,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(174,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(214,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(232,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(235,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(253,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(561,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(858,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(867,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(904,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(949,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(998,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1000,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1010,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1034,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1036,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1047,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1069,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1138,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1236,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1267,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1289,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1369,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1406,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1472,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1497,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1535,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1563,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1603,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1639,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1702,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1727,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1768,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1796,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Source.cpp(1336): warning C4715: 'Again': not all control paths return a value
+  Project4.vcxproj -> C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project4\Debug\Project4.exe

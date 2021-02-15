@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project3\Project3\Source.cpp(66,18): warning C4244: 'argument': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project3\Project3\Source.cpp(83): warning C4715: 'MPrime': not all control paths return a value
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project3\Project3\Source.cpp(430): warning C4715: 'DaysOfMonth': not all control paths return a value
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project3\Project3\Source.cpp(605): warning C4715: 'DayOfWeekk': not all control paths return a value
+C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project3\Project3\Source.cpp(586): warning C4715: 'DayOfWeek': not all control paths return a value
+  Project3.vcxproj -> C:\Users\tiago\Desktop\FEUP\1º Ano\2º Semestre\PROG\Project3\Debug\Project3.exe
